@@ -13,8 +13,8 @@ To write a Java program to implement Tower of Hanoi
 
 ## Program:
 ```
-Developed by: kirthick roshan j
-RegisterNumber: 212223040097
+Developed by: Suriya Pravin M
+RegisterNumber: 212223230223
 ```
 
 ```
